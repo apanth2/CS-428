@@ -1,0 +1,4 @@
+#Sat Sep 14 18:40:25 CST 2019
+base.0=D\:\\ARVR\\Project 1\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
